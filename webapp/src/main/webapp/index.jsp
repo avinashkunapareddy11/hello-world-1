@@ -8,7 +8,7 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1 style="color:blue;"> Hello, Welcome to Our DevOps 2nd Project  </h1>
+<h1 style="color:yellow;"> Hello, Welcome to Our DevOps 2nd Project  </h1>
 <h1 style="color:green;"> Version: 1.27 -AVINASH Kunapareddy 0311 </h1>
 </body>
 </html>
